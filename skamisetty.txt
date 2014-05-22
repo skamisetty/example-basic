@@ -1,0 +1,31 @@
+Home 
+mikemcquaid edited this page on Feb 21 · 14 commits
+Pages (31)
+
+    Acceptable Formulae
+    Bottles
+    brew tap
+    Brew Test Bot
+    Brew Test Bot For Core Contributors
+    Bug fixing checklist
+    C++ Standard Libraries
+    Common Issues
+    Custom GCC and cross compilers
+    External Commands
+    FAQ
+    Formula Cookbook
+    Gems, Eggs and Perl Modules
+    Home
+    Homebrew 0.8
+    Show 16 more pages…
+
+Clone this wiki locally
+
+Homebrew installs the stuff you need that Apple didn’t.
+
+    Install Homebrew
+    FAQ
+    Tips n' Tricks
+    Gems, Eggs and Perl Modules and Homebrew and Python
+
+Please note: Homebrew is not 1.0 yet. Generally it works well, but when it doesn’t we’d hope you report the bug. If it’s still broken at 1.0 you have our permission to throw a strop and make a big fuss.
